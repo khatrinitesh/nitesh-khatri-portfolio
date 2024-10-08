@@ -5,6 +5,7 @@ import Hero from '../components/Hero/Hero';
 import Projects from '../components/Projects/Projects';
 import About from '../components/About/About';
 import Contact from '../components/Contact/Contact';
+import ScrollToTopButton from '../components/ScrollBackTop/ScrollBackTop';
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
         <Contact/>
         <Footer/>
         <FixSocialIcon/>
+        <ScrollToTopButton/>
     </>
   );
 }

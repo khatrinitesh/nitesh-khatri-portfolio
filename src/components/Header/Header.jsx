@@ -23,9 +23,9 @@ const Header = ({ toggle }) => {
             </NavLink>
           </NavMenu>
           <NavBtn>
-            <a
+            <a download
               className="btn PrimaryBtn"
-              href="https://github.com/khatrinitesh"
+              href="../../../public/html_tutorial.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
