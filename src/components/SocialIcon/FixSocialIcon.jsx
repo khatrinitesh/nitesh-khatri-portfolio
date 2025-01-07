@@ -39,7 +39,7 @@ function FixSocialIcon() {
       <ul>
         <li className="item">
           <a
-            href="https://www.linkedin.com/in/your_username/"
+            href="https://www.linkedin.com/in/nitesh-khatri-9892712a/"
             target="_blank"
             rel="noopener noreferrer"
           >

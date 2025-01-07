@@ -29,7 +29,7 @@ function Footer(){
         <span>
           Coded with 💙 by{" "}
           <a
-            href="https://github.com/khatrinitesh/"
+            href="https://niteshkhatri.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >

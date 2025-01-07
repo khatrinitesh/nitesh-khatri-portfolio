@@ -5,7 +5,7 @@ export const ProjectList = [
     {
         img: PortfolioNk,
         title: "Portfolio",
-        description: "Ofcourse i made my own personal portfolio website.",
+        description: "Of course, I made my own personal portfolio website.",
         tech_stack: "Reactjs, Css",
         github_url: "https://github.com/khatrinitesh/nitesh-khatri-portfolio",
         demo_url: "https://niteshkhatri.netlify.app/",

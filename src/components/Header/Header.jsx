@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
           <NavBtn>
             <a download
               className="btn PrimaryBtn"
-              href="../../../public/html_tutorial.pdf"
+              href="../../../public/nitesh-khatri-resume-resume-front-end-ui-developer.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
